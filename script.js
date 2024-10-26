@@ -18,7 +18,8 @@ const languages = {
     "it-IT": "Italian",
     "hi-IN": "Hindi",
     "pt-PT": "Portuguese",
-    "te-TE": "Telugu"
+    "te-TE": "Telugu",
+    "ml-ML": "Malayalam"
 };
 
 
