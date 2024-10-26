@@ -17,7 +17,8 @@ const languages = {
     "ru-RU": "Russian",
     "it-IT": "Italian",
     "hi-IN": "Hindi",
-    "pt-PT": "Portuguese"
+    "pt-PT": "Portuguese",
+    "te-TE": "Telugu"
 };
 
 
